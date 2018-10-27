@@ -7,3 +7,6 @@ print(c)
 
 #Explicit definition of int is done becuase by default input function returns a string.
 #A plus operation just concatenates the string.
+
+#Test2
+#Test1
